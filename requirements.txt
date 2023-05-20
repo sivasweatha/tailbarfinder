@@ -1,5 +1,5 @@
 matplotlib==3.5.3
-numpy==1.21.6
+numpy
 Pillow==9.5.0
 protobuf==4.23.1
 tensorflow==2.12.0
